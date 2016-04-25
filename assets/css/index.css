@@ -2,7 +2,7 @@
 /*~~~~~~~~~~~~~~~~  Common  ~~~~~~~~~~~~~~~~*/
 header {
   text-align: center;
-  background: url('skyline.jpg');
+  background: url('../../assets/img/skyline.jpg');
   background-size: cover;
   background-position: 0 0;
   color: white;
