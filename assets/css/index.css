@@ -3,8 +3,9 @@
 header {
   text-align: right;
   background: url('../../assets/img/skyline.jpg');
-  background-size: cover;
+  background-size: 100%;
   background-position: 0 0;
+  background-repeat: no-repeat;
   color: black;
 }
 body{
@@ -103,8 +104,6 @@ box-shadow: 0;
 .home {
   margin: 0 auto;
   max-width: 600px;
-}
-.profile {
 }
 .description {
   text-align: left;
