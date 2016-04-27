@@ -40,6 +40,11 @@ p {
 h1 {
   color: #282828;
 }
+img {
+  margin: 0px 0px 0px 0px;
+  border: 0px solid white;
+  border-radius: 0;
+}
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
